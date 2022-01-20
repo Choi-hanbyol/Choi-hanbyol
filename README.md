@@ -1,6 +1,6 @@
 ### Hi there 👋
 ### 최한별의 우당탕 깃허브
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 
 <!--
 **Choi-hanbyol/Choi-hanbyol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
